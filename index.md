@@ -1,37 +1,14 @@
-## Stomia Uploader
+# Stomia Uploader
+Krótki opis aplikacji - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eros elit, pellentesque egestas risus sed, fermentum fringilla lectus. Etiam pretium quam sodales elementum accumsan.
+![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen1.png?raw=true "Logo Title Text 1")
 
-You can use the [editor on GitHub](https://github.com/sosnus/stomia-landing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Pobierz aplikację
+[![Google Play](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/download-android.png?raw=true)](https://play.google.com/store?hl=pl&gl=US)
+[![App Store](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/download-ios.png?raw=true)](https://www.apple.com/pl/ios/app-store/)
+https://www.apple.com/pl/ios/app-store/
+https://play.google.com/store?hl=pl&gl=US
+### Pliki
+* [Polityka prywatności](https://github.com/sosnus/stomia-landing/blob/gh-pages/documents/Stomia-polityka.pdf)
+* [Regulamin aplikacji](https://github.com/sosnus/stomia-landing/blob/gh-pages/documents/Stomia-regulamin.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sosnus/stomia-landing/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
