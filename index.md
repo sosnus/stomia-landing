@@ -8,5 +8,6 @@ Krótki opis aplikacji - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ### Pliki
 * [Polityka prywatności](https://github.com/sosnus/stomia-landing/blob/gh-pages/documents/Stomia-polityka.pdf)
 * [Regulamin aplikacji](https://github.com/sosnus/stomia-landing/blob/gh-pages/documents/Stomia-regulamin.pdf)
-
+### Przywracanie hasła
+* [Przywracanie hasła](/documents/pass-restore.md)
 
