@@ -11,3 +11,7 @@ Krótki opis aplikacji - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ### Przywracanie hasła
 * [Przywracanie hasła](/documents/pass-restore.md)
 
+### Nowe, testowe:
+* [Polityka prywatności](/documents/Stomia-polityka.pdf)
+* [Regulamin aplikacji](/documents/Stomia-regulamin.pdf)
+* [Stoma Alert instrukcja Android](/documents/instrukcja-testy-android.pdf)
