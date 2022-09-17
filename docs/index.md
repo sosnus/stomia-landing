@@ -9,7 +9,7 @@ Krótki opis aplikacji - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ### Pliki
 * [Polityka prywatności](/documents/Stomia-polityka.pdf)
 * [Regulamin aplikacji](/documents/Stomia-regulamin.pdf)
-* 
+
 ### Przywracanie hasła
 * [Przywracanie hasła](/documents/pass-restore.md)
 
