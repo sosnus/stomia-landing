@@ -15,3 +15,4 @@ Krótki opis aplikacji - Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 ### Instrukcje do testów dla kręgu "Close testing"
 * [Stoma Alert instrukcja Android](/documents/instrukcja-testy-android.pdf)
+* [Tworzenie konta pacjenta](/documents/konto-pacjenta.pdf)
