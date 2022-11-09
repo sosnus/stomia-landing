@@ -6,6 +6,9 @@ STOMA- ALERT to więcej niż aplikacja mobilna. To system, który pozwala pacjen
 
 ![screenshot](https://raw.githubusercontent.com/sosnus/stomia-landing/main/docs/images/Screen11.jpg)
 
+
+<img src="https://raw.githubusercontent.com/sosnus/stomia-landing/main/docs/images/Screen11.jpg" width="200" >
+
 ### Pobierz aplikację
 [![Google Play](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/download-android.png?raw=true)](https://play.google.com/store?hl=pl&gl=US)
 [![App Store](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/download-ios.png?raw=true)](https://www.apple.com/pl/ios/app-store/)
