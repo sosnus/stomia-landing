@@ -25,4 +25,4 @@ STOMA- ALERT to więcej niż aplikacja mobilna. To system, który pozwala pacjen
 
 
 ### Dane kontaktowe
-* [Dane kontaktowe](/docs/contact.md)
+* [Dane kontaktowe](/documents/contact.md)
