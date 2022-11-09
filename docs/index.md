@@ -22,3 +22,7 @@ STOMA- ALERT to więcej niż aplikacja mobilna. To system, który pozwala pacjen
 ### Instrukcje do testów dla kręgu "Close testing"
 * [Stoma Alert instrukcja Android](/documents/instrukcja-testy-android.pdf)
 * [Tworzenie konta pacjenta](/documents/konto-pacjenta.pdf)
+
+
+### Dane kontaktowe
+* [Dane kontaktowe](/contact.md)
