@@ -5,6 +5,7 @@ Kontakt odbywa się za pomocą aplikacji mobilnej dostępnej w GooglePlay i AppS
 STOMA- ALERT to więcej niż aplikacja mobilna. To system, który pozwala pacjentom na korzystanie z bazy wiedzy (wiadomości o stomii, sposobach pielęgnacji) oraz e-konsultacji medycznych.
 
 ![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen11.png?raw=true =250x "Logo Title Text 1")
+![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen11.png?raw=true)
 
 ### Pobierz aplikację
 [![Google Play](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/download-android.png?raw=true)](https://play.google.com/store?hl=pl&gl=US)
