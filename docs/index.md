@@ -1,14 +1,18 @@
-# Stomia Uploader
-Krótki opis aplikacji - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eros elit, pellentesque egestas risus sed, fermentum fringilla lectus. Etiam pretium quam sodales elementum accumsan.
-![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen1.png?raw=true =250x "Logo Title Text 1")
+# Stoma Alert
+Stoma-Alert to nowoczesny, intuicyjny system telemedyczny przeznaczony dla pacjentów z wyłonioną stomią jelitową.
+System pozwala na zdalny kontakt z personelem medycznym - wybranym przez pacjenta lekarzem/lekarką lub pielęgniarką stomijną.
+Kontakt odbywa się za pomocą aplikacji mobilnej dostępnej w GooglePlay i AppStore.
+STOMA- ALERT to więcej niż aplikacja mobilna. To system, który pozwala pacjentom na korzystanie z bazy wiedzy (wiadomości o stomii, sposobach pielęgnacji) oraz e-konsultacji medycznych.
+
+![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen11.png?raw=true =250x "Logo Title Text 1")
 
 ### Pobierz aplikację
 [![Google Play](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/download-android.png?raw=true)](https://play.google.com/store?hl=pl&gl=US)
 [![App Store](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/download-ios.png?raw=true)](https://www.apple.com/pl/ios/app-store/)
 
 ### Pliki
-* [Polityka prywatności](/documents/Stomia-polityka.pdf)
-* [Regulamin aplikacji](/documents/Stomia-regulamin.pdf)
+* [Polityka prywatności](/documents/stompat/Stomia-polityka.pdf)
+* [Regulamin aplikacji](/documents/stompat/Stomia-regulamin.pdf)
 
 ### Przywracanie hasła
 * [Przywracanie hasła](/documents/pass-restore.md)
