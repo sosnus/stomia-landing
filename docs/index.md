@@ -8,6 +8,10 @@ STOMA- ALERT to więcej niż aplikacja mobilna. To system, który pozwala pacjen
 
 
 ![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen11.png?raw=true =250x "Logo Title Text 1")
+
+
+
+![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen11.png?raw=true =250x "Logo Title Text 1")
 ![alt text](https://github.com/sosnus/stomia-landing/blob/gh-pages/images/screen11.png?raw=true)
 
 https://github.com/sosnus/stomia-landing/blob/main/docs/images/screen11.png?raw=true
